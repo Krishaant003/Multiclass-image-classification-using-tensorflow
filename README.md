@@ -17,4 +17,5 @@ Additional feature:
 
 Sample Image of GUI:
 -
+![gui](https://github.com/Krishaant003/Multiclass-image-classification-using-tensorflow/assets/97774370/8acce625-9615-4726-84e4-4718a393ec82)
 
